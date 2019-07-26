@@ -31,9 +31,8 @@ Its a EngineControl
 
 ### Content
 
-| System | Usage |
+| System |
 | ------- |
-| SpeedControl| Script to control the gridspeed|
-| WeaponControl| Script to control the max weapons per grid|
-| EngineControl| Script to control the max thrusters per grid|
-| ------- |
+| SpeedControl -> Script to control the gridspeed| 
+| WeaponControl -> Script to control the max weapons per grid|
+| EngineControl -> Script to control the max thrusters per grid|
